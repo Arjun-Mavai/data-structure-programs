@@ -37,14 +37,22 @@ void print()
 int main() {
     
     push(1);print();
-     push(2);print();
-      push(3);print();
-            push(4);print();
-                  push(5);print();
-                  pop();print();
-                      pop();print();
-                          pop();print();
-                              pop();print();
+     push(2);
+     print();
+      push(3);
+      print();
+            push(4);
+            print();
+                  push(5);
+                  print();
+                  pop();
+                  print();
+                      pop();
+                      print();
+                          pop();
+                          print();
+                              pop();
+                              print();
     
 	//code
 	return 0;
